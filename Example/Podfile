@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FYMarqueeView_Example' do
+  pod 'FYMarqueeView', :path => '../'
+
+  target 'FYMarqueeView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

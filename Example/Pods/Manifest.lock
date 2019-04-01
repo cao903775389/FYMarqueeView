@@ -1,0 +1,16 @@
+PODS:
+  - FYMarqueeView (0.0.1)
+
+DEPENDENCIES:
+  - FYMarqueeView (from `../`)
+
+EXTERNAL SOURCES:
+  FYMarqueeView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FYMarqueeView: ea6f9989412f9ad3617b4759c06958d267473b38
+
+PODFILE CHECKSUM: 777a448478bb51dfbc95690e5a987047960bb91f
+
+COCOAPODS: 1.5.3
